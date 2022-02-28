@@ -1,0 +1,469 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A private conference betvveen Mr. L. Robinson, and Mr. T. Scott, occasioned upon the publishing his Maiesties letters and declaration.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91034</idno>
+            <idno type="STC">Wing P3528B</idno>
+            <idno type="STC">Thomason E1025_1</idno>
+            <idno type="STC">ESTC R208639</idno>
+            <idno type="EEBO-CITATION">99867569</idno>
+            <idno type="PROQUEST">99867569</idno>
+            <idno type="VID">119885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91034)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119885)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1025[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A private conference betvveen Mr. L. Robinson, and Mr. T. Scott, occasioned upon the publishing his Maiesties letters and declaration.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Isack Goulden at the Dolphin in Pauls-Church-Yard,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>"A satire." -- Thomason Collection.</note>
+                  <note>Annotation on Thomason copy: "May 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lambert, John, 1619-1683 --  Humor --  Early works to 1800.</term>
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Humor --  Early works to 1800.</term>
+               <term>Charles --  II, --  King of England, 1630-1685 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119885:1"/>
+            <!-- PDF PAGE 114 -->
+            <pb facs="tcp:119885:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <p>A PRIVATE CONFERENCE BETWEEN Mr. L. Robinſon, AND Mr. T. Scott, Occaſioned upon the Publiſhing his MAIESTIES LETTERS AND DECLARATION.</p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Iſack Goulden</hi> at the <hi>Dolphin</hi> in <hi>Pauls-Church-Yard,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:119885:2"/>
+            <!-- PDF PAGE 115 -->
+            <pb n="3" facs="tcp:119885:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+            <head>A PRIVATE CONFERENCE.</head>
+            <sp>
+               <speaker>ROb.</speaker>
+               <p>Pox, O this damn'd Fellow <hi>Lambert,</hi> we may thank him for all this; He muſt be quar<g ref="char:EOLhyphen"/>relling like a Knave, and we muſt be retor<g ref="char:EOLhyphen"/>ting again like a company of Fools as we were, as if we had done it on purpoſe to let honeſt men come by their own. Well, we have had many a true jeſt put upon us, but never were ſo pay'd with a true proverb before.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>
+                  <hi>Storkes</hi> come into <hi>England,</hi> quether! Ile be hang'd if ever any <hi>Storkes</hi> came hither: No, no: I ſee <hi>Common-wealth birds</hi> wont live in our Climate.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>What a devil were we choſen into this Houſe for.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>To ſit in it like two Owles for people to ſtare and poynt at us. There's <hi>Tom. Scot</hi> — cries one— Lord Chief peeper into the <hi>Rumps</hi> ſecrets; Who's that cries another? <hi>Luke Robinſon</hi> the <hi>Barbarian,</hi> The <hi>Chrimme Tartar,</hi> whom <hi>Cerberus</hi> begat upon an <hi>Elders maid.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>And theyre ſo unanimous (I wonder where they learnt it, I am ſure not from us) that I profeſſe I am amaz'd to ſee it, they hold together as if they had ſtudied nothing but the 133 <hi>Pſalm.</hi> I was forc'd to op<g ref="char:EOLhyphen"/>poſe a <hi>motion</hi> the other day my ſelf, leaſt there ſhould have bin a <hi>nemine contradicente</hi> in the Houſe.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>God's life! But did you hear the man that
+<pb n="4" facs="tcp:119885:3"/>
+                  <!-- PDF PAGE 116 -->
+cry'd <hi>give unto Caeſar that which is Caeſars.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>I could have wiſh'd it had bin left out of the Bible, for thought it be not much Significant, If right<g ref="char:EOLhyphen"/>ly expounded, yet it does a great deal of miſchief at the firſt ſight.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Upon my credit, brother <hi>Robinſon,</hi> they were very ſevere words: they were more painful to me than the pains of the Pox: And now, God help me I have felt both.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>There's no man would expound it as theſe men do: why ſuppoſe we are bid to <hi>give Caeſar his due,</hi> we are ready to do it: but <hi>Caeſar</hi> is not the King, neither is the King <hi>Caeſar;</hi> when they can prove the King to be <hi>Caeſar,</hi> then wee'l <hi>give him his due.</hi> beſides <hi>Caeſar</hi> was an <hi>Emperour:</hi> now if we are bid to give the <hi>Emperour</hi> his <hi>due,</hi> we are not therefore bid to give the King his <hi>due.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Why did you not urge this in the Houſe, Brother.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Becauſe I thought 'twas to no purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>'Tis not the firſt thing that we have done to no purpoſe. Did not we viſit <hi>Monk</hi> to no purpoſe? and break down the City gates to no purpoſe? and ſend all our Souldiers out of town to no purpoſe? and have not we been Common-wealthing it here theſe twelve years to no purpoſe? why then could not you ſpeak two or three words to no purpoſe?</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>I confeſſe I have been good at <hi>Snarling</hi> and <hi>Wrangling</hi> and <hi>Contradicting,</hi> but now I know not what ayles me? I think the <hi>times</hi> have almoſt doaz'd me. Did I think ever to have liv'd to have ſeen a King again, in <hi>England?</hi> — hum h — a King — very good — no, tis not ſo very good neither, now I think on't.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I profeſſe I don't like it neither. Well <hi>Thom. Scot</hi> now bid all thy worldly honours adue, bid thy Se<g ref="char:EOLhyphen"/>cretary Ship farewell too; but part civilly however, tell um 'tis againſt thy will that thou part'ſt from um, and
+<pb n="5" facs="tcp:119885:3"/>
+                  <!-- PDF PAGE 116 -->
+if thou did'ſt ever oblige any friends whilſt thou wert in power, call um to mind, for I am afraid thou wilt want a great many.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>
+                  <hi>A Letter from his Majeſty —</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot,</speaker>
+               <p>yes I hear it, ther's a dainty bit for a <hi>Rumper</hi> to chew upon — but the reception and ſubmiſſive ac<g ref="char:EOLhyphen"/>knowledgment of it — thoſe are two excellent ingredi<g ref="char:EOLhyphen"/>ents to purge melancholly: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uppoſe a man ſhould now divide a Sixpence into three parts or a Groat into two parts, and beſtow either the third parts of the Sixpence or the half of the Groat, would it not be bet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er than to linger out a mans days in ſcorn and contempt? — How? The Lyon and the Unicorn? — How many times have I ordered um to be pul'd down? And are they got up again? Yet I am ſure my warrants were not wont to be ſeal'd with Butter, — but tis all one whether Wax or Butter, — for I ſee now one will melt as well as the other.—Have we been ſitting here this 12 years only to wake Lyons couchant? Nay then <hi>farewell Froſt.</hi> The Picture of the <hi>Devil</hi> with all his Claws, his long Tayl, and his ſtrange miſhapen Counte<g ref="char:EOLhyphen"/>nance, looks like one of <hi>Perells Land-skips,</hi> compar'd to this diſmal ſight of the <hi>Lyon</hi> and the <hi>Unicorn.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Nay her's another apperition as bad as the o<g ref="char:EOLhyphen"/>ther.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>What's that for the Lords ſake?</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Look here, — <hi>CHARLES R.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Heaven defend us! Lord how we wondred in former time to ſee an <hi>et Cetera.</hi> Pray God this be not the name of an Angel, for I am afraid I ſhall even dye now I have ſeen it; Prethee Brother turn over the leaf, it makes my knees ſhake worſe then <hi>Belſhaſſars Mene Tekel</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>But heres not only <hi>CHARLES,</hi> but <hi>CHARLES R.</hi> yes and this ſuffer'd too.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Men will ſuffer any thing in theſe dayes, did they not ſuffer me, and you, and <hi>Cromwel,</hi> and did
+<pb n="6" facs="tcp:119885:4"/>
+                  <!-- PDF PAGE 117 -->
+not the King ſuffer? And therefore prithee ſuffer that <hi>R.</hi> to ſtand there; I had rather ſee it in the front of a book, then plac'd upon my forhead. God keep all Hyeroglyphicks from coming there.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Heres another ſong to the ſame tune. <hi>Truſty and well beloved.</hi> But let that paſſe, for it concerns not us at all. <hi>Truſty</hi> quether; indeed wee have bin very <hi>Truſty,</hi> if the whole truth were known; And why well-beloved? 'Tis a name that was never given us before: the very Preachers when they know we are at Church, leave out the word <hi>beloved,</hi> leſt they ſhould give us a wrong ſtile in the Croud. Why ſhould we give <hi>Caeſar</hi> his due that won't give us our due?</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>How? <hi>Inſupportable Calamities, by which the Nation was neer exhauſted?</hi> Now you ſee Mr. <hi>Robinſon</hi> what 'tis for a man to ſpeak out of ignorance; had this man been of our <hi>Gang,</hi> he would have known better than to have ſaid ſo, for Ile ſwear my thought they were the braveſt days I ever ſaw in my life; I never commanded more, and never had more mony in my Pocket; Our very news-Monger could looſe his 40 or 50 pieces in an afternoon; And I am ſure theſe were no ſignes the Nation was quite exhauſted. I fear we ſhall never ſee ſuch times again.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>But will the King come in again in good ear<g ref="char:EOLhyphen"/>neſt.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>In good earneſt I know no body to keep him out.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Wher's <hi>Hazelrig</hi> that ſaid he would <hi>rowl</hi> to his Grave in blood, before the King ſhould come in?</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Hang him lying Bragadochio, hee'l ſay more in an hour, than hee'l perform in the length of a <hi>Troy Siege.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Are not we then in a fine condition?</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>What do you mean by a fine condition Bro<g ref="char:EOLhyphen"/>ther?</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>I mean are we not in a delicate plight?</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:119885:4"/>
+               <!-- PDF PAGE 117 -->
+               <speaker>Scot.</speaker>
+               <p>Fine and dilicate de'ye call it? Theſe are di<g ref="char:EOLhyphen"/>licate words, but I fear they will not ſuit either with us, nor the condition we ſhortly ſhall be in.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Why is there not an Act of oblivion promis'd?</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Yes to all excepting ſuch as the Parliament ſhall except.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Why are not we Parliament men? wee'l ex<g ref="char:EOLhyphen"/>cept our ſelves I warrant yee.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>If there were none of the Parliament but we two, we might make a ſhift, but what think you of that plaguie thing called the <hi>Major part,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Nay if ye talk of the <hi>Major part</hi> once, Ile be of the <hi>Major part</hi> too: Ile go and recant.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>How recant?</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Yes fore God Ile recant; Ile rather <hi>turn</hi> than <hi>burn,</hi> Martirdome! hang it, tis obſtinacy; tis true, I can be as obſtinate as another, but not when my neck lies at ſtake.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I know not what to do, I am made a Murde<g ref="char:EOLhyphen"/>rer, and a Traytor, tis time for me to be packing.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>I have been deeply enough engagd againſt him too, but there was one Thief upon the Croſſe ſpar'd, becauſe he ask'd forgiveneſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Would I could but get a good Chapman for my part of <hi>Lambeth houſe,</hi> and I'de e'ne go travel in my old age.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>You may travel brother <hi>Scot,</hi> your Legs are both of a length, for my part I can't walk far, and there<g ref="char:punc">▪</g> Ile repent. I know full well what belongs to Seque<g ref="char:EOLhyphen"/>ſtrations and Compoſitions, and therefore Ile not ſtand to the hazard of either.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>You may do as you pleaſe, but for my part I am reſolved to drive it off to the laſt, till I ſee what they intend to do. Twould vex a man to the Soul to repent and whine, and then to be hang'd afterwards. Poor Common-wealths-men, tis time for us to look to out buttocks, when they take down our breeches.
+<pb n="8" facs="tcp:119885:5"/>
+                  <!-- PDF PAGE 118 -->
+What a ſad deſtruction will here be of <hi>Harps</hi> and <hi>Croſ<g ref="char:EOLhyphen"/>ſer;</hi> The Gentlemen think they do us a great curteſie to take away our Croſſes, but I had rather they would break my <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hins. But what ſay the People? Hang their new <hi>Heraldrie</hi> cries one,—not ſo cries another, they are not fit to make ſigns of— Burn um cries another, — and then they rejoice; — This man quoth they, hath ſpoken like a <hi>Seer,</hi> — next Bonfires have at um, — and I believe within thiſ fortnight we ſhall ſee no more ſign of the <hi>States Arms,</hi> than of <hi>Nimrods</hi> Pedegree.</p>
+               <p>Muſt they be pulling down Croſſes, becauſe we were once in the humor of pulling um down? — Yes, — for we did it with a bind zeal, but they do it with a knowing zeal. But ſee the Seamen too, Fel<g ref="char:EOLhyphen"/>lows that hardly know what a King is, they are for his Majeſty too.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>How can we expect otherwiſe but that they ſhould love Monarchy, when every petty ſhip is a kind of Monarchy.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>tis againſt the officers intereſt indeed: but why ſhould not the Souldiers have their ſhare too in the Goverment of the ſhip, as well as the Command<g ref="char:EOLhyphen"/>ers; would to God we had order'd it ſo, when we were in Authority; I beleive they would have found a hard task to make the Maſtiffs let go their hold. What a pox do they travel for? — Not to ſee faſhions you'le ſay — no, I beleive not, — If they did they'd re<g ref="char:EOLhyphen"/>member, how much more Seamen thrive in Common-wealths than in Monachies. Hang um — remember — they don't remember that we paid um, and that they ſerv'd us — but they remember that they ſerv'd us and we did not pay um — does that ſtick in your ſtomacks Gentlemen? — truly we are ſorry for't, not for yours, but for our own ſakes — as for our <hi>flaggs</hi> and <hi>pendents,</hi> they now muſt periſh like chaffe before the wind — would it not greive a man to ſee the wo<g ref="char:EOLhyphen"/>men
+<pb n="9" facs="tcp:119885:5"/>
+                  <!-- PDF PAGE 118 -->
+of <hi>Wapping</hi> peticoted in the Common-wealths <hi>jacks</hi> and <hi>Auncients</hi>— and to ſee the pride and glory of <hi>Reſpublica Angliae</hi> mantling a <hi>boatſwaines Lecherie.</hi> O <hi>Lawſon, Lawſon!</hi> once thou didſt bravely for us; But our <hi>Iaſon</hi> is gon, and woe is me for all my fellow <hi>Com<g ref="char:EOLhyphen"/>mon-wealths— Argonauts,</hi> we never more muſt think to regain the golden fleece again. Well <hi>Brother,</hi> I can talk no more on't, God b'y; theſe things make me mad.</p>
+            </sp>
+         </div>
+         <div type="speech">
+            <head>
+               <hi>ROBINSONS</hi> RECANTATION IN THE HOUSE</head>
+            <p>GEntlemen, I have been a great many years againſt the King, becauſe I ſaw it was convenient to do ſo; And now becauſe I find you are all for him, I am for him too: 'Tis ill ſtriving my Maſters against the ſtream, Ile nere do it while I live. Gentlemen, you know the common excuſe, — I have been deluded a great while, but now my eye are open, — Pray Gen<g ref="char:EOLhyphen"/>tlemen let this ſerve, — I am very ſory for what I have done, becauſe it has thriv'd ſo ill, — and therefore pray forgive me, — and the Lord for<g ref="char:EOLhyphen"/>give me, and ſo let us all forgive one another.</p>
+         </div>
+         <div type="song">
+            <pb n="10" facs="tcp:119885:6"/>
+            <!-- PDF PAGE 119 -->
+            <head>A BONFIRE CAROLL.</head>
+            <lg>
+               <l>WHy does the pale Phanatick Grin</l>
+               <l>To ſee our general Joy?</l>
+               <l>Who thinks there is no uſe of Fire</l>
+               <l>But only to Deſtroy.</l>
+            </lg>
+            <lg>
+               <l>He long'd to ſee the City Flame,</l>
+               <l>And now has his deſires;</l>
+               <l>But now he ſee's the City Flame,</l>
+               <l>Quoth he, <hi>Pox take your Fires.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Come boy's more wood — there is no more,</l>
+               <l>Then fetch a <hi>Harp and Croſſe;</hi>
+               </l>
+               <l>Nay, fetch us all thoſe rotten boards;</l>
+               <l>Wee'l burn 'um by the <hi>Groſſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Great <hi>CHARLES</hi> the ſecond is proclaim'd</l>
+               <l>Lord of his Native Right:</l>
+               <l>The day's too little for our Joy,</l>
+               <l>Which makes us Joy by Night.</l>
+            </lg>
+            <lg>
+               <l>
+                  <pb n="11" facs="tcp:119885:6"/>
+                  <!-- PDF PAGE 119 -->Behold a ſight! The Earth it ſelf</l>
+               <l>Is now our Altar made;</l>
+               <l>But where's the Sacrifice you'l ſay?</l>
+               <l>Oh! that is quickly had.</l>
+            </lg>
+            <lg>
+               <l>Bring hither the Rebelious votes</l>
+               <l>That beardleſſe <hi>Tichborn</hi> fram'd;</l>
+               <l>And Records of <hi>th'Infernal Act</hi>
+               </l>
+               <l>Of <hi>Bradſhaw,</hi> who is damn'd;</l>
+            </lg>
+            <lg>
+               <l>Bring what the bold Conſpiracy</l>
+               <l>Of Rumpers did impoſe,</l>
+               <l>When they aboliſh'd Regal Power,</l>
+               <l>In dread of <hi>Cromwells</hi> Noſe;</l>
+            </lg>
+            <lg>
+               <l>Bring the curſed <hi>Hue and Crie,</hi> and him</l>
+               <l>That dar'd to write it too,</l>
+               <l>And bring that <hi>Vote</hi> which <hi>Commonwealth'd</hi> us</l>
+               <l>Into our deepeſt woe;</l>
+            </lg>
+            <lg>
+               <l>Bring whatſoere the chief of Rebells</l>
+               <l>Vpon the Nation forc'd,</l>
+               <l>To diſpoſſeſſe his <hi>Soveraign,</hi>
+               </l>
+               <l>For which his Sons are curs'd;</l>
+            </lg>
+            <lg>
+               <l>Theſe ſhould the Sacrifices be</l>
+               <l>If we might have our will,</l>
+               <l>And as for <hi>Prieſts</hi> yee ſhall not want</l>
+               <l>To burn and burn 'um still.</l>
+            </lg>
+            <lg>
+               <l>But now I think on't where's Sir <hi>Arthur</hi>
+               </l>
+               <l>As dry as <hi>Norway</hi> deal,</l>
+               <l>
+                  <pb n="12" facs="tcp:119885:7"/>
+                  <!-- PDF PAGE 120 -->'Tis juſt he ſhould be burnt, that firſt</l>
+               <l>Did fire the Common-weal.</l>
+            </lg>
+            <lg>
+               <l>Where's <hi>Thomas Scott,</hi> hee's pretty drye too,</l>
+               <l>As having lost his marrow;</l>
+               <l>But leſt our fire be out too ſoon,</l>
+               <l>Bring <hi>Vane</hi> in a Wheel-Barrow:</l>
+            </lg>
+            <lg>
+               <l>Bring <hi>Martin</hi> too, that beaſtly Slave,</l>
+               <l>And bring his Leman hither,</l>
+               <l>For as they liv'd like Antient Gaules,</l>
+               <l>Wee'd have 'um dye together,</l>
+            </lg>
+            <lg>
+               <l>Then boldly let um throw themſelves</l>
+               <l>Into theſe Funeral Piles,</l>
+               <l>That all Rebellion may be buri'd</l>
+               <l>While we dance Round the whiles;</l>
+            </lg>
+            <lg>
+               <l>Tis better ſo to dye than live</l>
+               <l>Still Ignominious:</l>
+               <l>Perhaps they want a Preſident,</l>
+               <l>There's <hi>Sardanapa us.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119885:7"/>
+            <!-- PDF PAGE 120 -->
+         </div>
+      </body>
+   </text>
+</TEI>
